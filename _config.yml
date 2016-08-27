@@ -1,0 +1,29 @@
+name: johnstewart
+favicon: null
+layout_spectrum: 0.31684055119548715
+typography_spectrum: 0.2062699600422807
+title: johnstewart
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+  brandStrength: 0.44863620222532086
+  lightness: 0.9385662306845631
+  saturation: 0.10439543000732288
+  rhythmicContrast: 0.350794446067496
+purpose: []
